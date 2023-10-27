@@ -12,3 +12,5 @@ https://docs.google.com/document/d/1l1kiecEFPcugaUjdCV3vihh5x2Ir5F_f/edit?usp=dr
 Язык программирования java или kotlin
 
 https://docs.google.com/document/d/1hrt6mdt6KZ3nrjFLc72wrdVGG9L6Kk54DFJML9dX8xc/edit?usp=drivesdk принцыпи проектирование
+
+https://docs.google.com/document/d/13JsRLTAHf1-1HYMp7BBMMPI7NFsNudGub06ZSUy7sec/edit?usp=drivesdk установка анаконды 
